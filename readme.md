@@ -172,3 +172,6 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 - [Me](https://github.com/adarsh-goel)
 - Everyone In This Journey !
+<a href="https://render.com/deploy?repo=https://github.com/Aakhash3455f/FileStreamBot-pro">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
